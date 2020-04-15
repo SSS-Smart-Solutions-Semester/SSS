@@ -18,16 +18,15 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using System.IO;
-    using System.Linq;
-    using GoogleARCore;
-    using UnityEditor;
-    using UnityEngine;
+using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
+using System.IO;
+using System.Linq;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:ElementsMustBeDocumented",
      Justification = "Internal")]
     public static class AugmentedImageDatabaseContextMenu

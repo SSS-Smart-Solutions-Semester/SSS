@@ -18,13 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using UnityEngine;
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Api;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Managers
+{
     internal class PointCloudManager
     {
         private NativeSession m_NativeSession = null;

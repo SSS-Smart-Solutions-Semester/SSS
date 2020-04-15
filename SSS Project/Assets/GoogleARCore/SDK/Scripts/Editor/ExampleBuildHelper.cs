@@ -18,14 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using UnityEditor;
-    using UnityEditor.Build;
-    using UnityEngine;
+using System.Collections.Generic;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     internal class ExampleBuildHelper : PreprocessBuildBase
     {
         private List<ExampleScene> m_ExampleScenes = new List<ExampleScene>();

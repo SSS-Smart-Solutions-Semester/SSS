@@ -313,6 +313,12 @@
             <e p="play-services-resolver_v1.2.122.0.txt" t="Include" />
           </e>
         </e>
+        <e p="Scripts" t="Include">
+          <e p="DragObject.cs" t="Include" />
+          <e p="FollowObject.cs" t="Include" />
+          <e p="LineRendererDistance.cs" t="Include" />
+          <e p="LuggageSize.cs" t="Include" />
+        </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />

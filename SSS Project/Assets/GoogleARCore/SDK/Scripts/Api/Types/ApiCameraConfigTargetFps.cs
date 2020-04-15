@@ -18,10 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
+using System;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
+{
     [Flags]
     internal enum ApiCameraConfigTargetFps
     {

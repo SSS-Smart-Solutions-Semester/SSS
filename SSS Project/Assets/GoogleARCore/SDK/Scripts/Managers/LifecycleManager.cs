@@ -18,12 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using GoogleARCore;
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Managers
+{
     internal class LifecycleManager
     {
         private static ILifecycleManager s_Instance;

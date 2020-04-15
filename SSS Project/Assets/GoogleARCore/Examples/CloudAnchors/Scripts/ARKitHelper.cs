@@ -18,11 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using System.Collections.Generic;
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
 #if ARCORE_IOS_SUPPORT
     using UnityEngine.XR.iOS;
     using UnityARUserAnchorComponent = UnityEngine.XR.iOS.UnityARUserAnchorComponent;

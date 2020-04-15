@@ -18,14 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.AugmentedImage
-{
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
-    using UnityEngine;
-    using UnityEngine.UI;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.AugmentedImage.Scripts
+{
     /// <summary>
     /// Controller for AugmentedImage example.
     /// </summary>
@@ -53,7 +51,7 @@ namespace GoogleARCore.Examples.AugmentedImage
         private Dictionary<int, AugmentedImageVisualizer> m_Visualizers
             = new Dictionary<int, AugmentedImageVisualizer>();
 
-        private List<AugmentedImage> m_TempAugmentedImages = new List<AugmentedImage>();
+        private List<SDK.Scripts.AugmentedImage> m_TempAugmentedImages = new List<SDK.Scripts.AugmentedImage>();
 
         /// <summary>
         /// The Unity Awake() method.
@@ -87,7 +85,7 @@ namespace GoogleARCore.Examples.AugmentedImage
             }
 
             // Get updated augmented images for this frame.
-            Session.GetTrackables<AugmentedImage>(
+            Session.GetTrackables<SDK.Scripts.AugmentedImage>(
                 m_TempAugmentedImages, TrackableQueryFilter.Updated);
 
             // Create visualizers and anchors for updated augmented images that are tracking and do

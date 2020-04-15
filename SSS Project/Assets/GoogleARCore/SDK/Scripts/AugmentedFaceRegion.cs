@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// Defines face regions for which the pose can be queried. Left and right of an Augmented Face

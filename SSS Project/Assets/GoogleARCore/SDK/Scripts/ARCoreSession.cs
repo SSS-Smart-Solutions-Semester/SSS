@@ -18,12 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System.Collections.Generic;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// A component that manages the ARCore Session in a Unity scene.
     /// </summary>

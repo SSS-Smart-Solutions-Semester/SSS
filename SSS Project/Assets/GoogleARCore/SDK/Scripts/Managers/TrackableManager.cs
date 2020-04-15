@@ -18,13 +18,17 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Deprecated;
+using Assets.GoogleARCore.SDK.Scripts.ExperimentSupport;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Managers
+{
     internal class TrackableManager
     {
         private Dictionary<IntPtr, Trackable> m_TrackableDict =

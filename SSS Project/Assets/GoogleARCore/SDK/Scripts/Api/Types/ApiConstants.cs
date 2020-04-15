@@ -18,15 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.InstantPreview.Scripts;
 
-    internal static class ApiConstants
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
+{
+        internal static class ApiConstants
     {
 #if UNITY_EDITOR
         public const string ARCoreNativeApi = InstantPreviewManager.InstantPreviewNativeApi;

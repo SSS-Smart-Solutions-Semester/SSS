@@ -18,17 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Diagnostics.CodeAnalysis;
-    using System.Text;
-    using Google.Protobuf;
-    using GoogleARCoreInternal.Proto;
-    using UnityEditor;
-    using UnityEngine;
-    using UnityEngine.Networking;
+using System;
+using System.Diagnostics.CodeAnalysis;
+using Assets.GoogleARCore.SDK.Scripts.Editor.Analytics;
+using Google.Protobuf;
+using UnityEditor;
+using UnityEngine;
+using UnityEngine.Networking;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     [InitializeOnLoad]
     [Serializable]
     [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:ElementsMustBeDocumented",

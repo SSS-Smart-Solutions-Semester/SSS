@@ -18,13 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using GoogleARCore.Examples.Common;
-    using UnityEngine;
+using System.Collections.Generic;
+using Assets.GoogleARCore.Examples.Common.Scripts;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
     /// <summary>
     /// A helper script to set the apparent world origin of ARCore through applying an offset to the
     /// ARCoreDevice (and therefore also it's FirstPersonCamera child); this also provides

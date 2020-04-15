@@ -18,12 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using System.Runtime.InteropServices;
-    using UnityEngine;
+using System.Diagnostics.CodeAnalysis;
+using System.Runtime.InteropServices;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
+{
     /// <summary>
     /// Pose data container stored in ARCore frame.
     /// </summary>

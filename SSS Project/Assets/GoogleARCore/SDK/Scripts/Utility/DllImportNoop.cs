@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
 {
     internal class DllImportNoop : System.Attribute
     {

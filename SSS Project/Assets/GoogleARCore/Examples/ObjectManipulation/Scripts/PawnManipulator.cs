@@ -18,11 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using GoogleARCore;
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts
+{
     /// <summary>
     /// Controls the placement of objects via a tap gesture.
     /// </summary>

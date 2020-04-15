@@ -18,17 +18,18 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using GoogleARCore;
-    using UnityEngine;
-    using UnityEngine.EventSystems;
-    using UnityEngine.Networking;
-    using UnityEngine.SceneManagement;
+using Assets.GoogleARCore.SDK.InstantPreview.Scripts;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.Networking;
+using UnityEngine.SceneManagement;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
 #if UNITY_EDITOR
     // Set up touch input propagation while using Instant Preview in the editor.
-    using Input = GoogleARCore.InstantPreviewInput;
+    using Input = InstantPreviewInput;
 #endif
 
     /// <summary>

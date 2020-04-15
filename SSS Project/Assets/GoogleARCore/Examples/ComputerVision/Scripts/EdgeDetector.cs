@@ -17,11 +17,12 @@
 //
 // </copyright>
 //-----------------------------------------------------------------------
-namespace GoogleARCore.Examples.ComputerVision
-{
-    using System;
-    using UnityEngine;
 
+using System;
+using UnityEngine;
+
+namespace Assets.GoogleARCore.Examples.ComputerVision.Scripts
+{
     /// <summary>
     /// Detects edges from input grayscale image.
     /// </summary>

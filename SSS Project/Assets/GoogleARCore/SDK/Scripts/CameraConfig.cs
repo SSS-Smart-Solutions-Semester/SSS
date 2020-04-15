@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using UnityEngine;
+using System;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Type of depth sensor usage for a camera config.
     /// </summary>

@@ -18,12 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Diagnostics;
-    using UnityEngine;
+using System;
+using System.Diagnostics;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     /// <summary>
     /// A custom class similar to Unity's Debug.
     /// </summary>

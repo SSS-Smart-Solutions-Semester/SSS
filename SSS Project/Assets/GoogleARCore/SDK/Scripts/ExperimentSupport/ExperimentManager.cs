@@ -18,13 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Reflection;
-    using GoogleARCore;
+using System;
+using System.Collections.Generic;
+using System.Reflection;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
 
+namespace Assets.GoogleARCore.SDK.Scripts.ExperimentSupport
+{
     internal class ExperimentManager
     {
         private static ExperimentManager s_Instance;

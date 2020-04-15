@@ -18,14 +18,17 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.CrossPlatform
-{
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCoreInternal;
-    using GoogleARCoreInternal.CrossPlatform;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Api.Wrappers;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// A cross-platform anchor.
     /// </summary>
@@ -34,7 +37,7 @@ namespace GoogleARCore.CrossPlatform
     public class XPAnchor : MonoBehaviour
     {
         private static Dictionary<IntPtr, XPAnchor> s_AnchorDict =
-            new Dictionary<IntPtr, XPAnchor>(new GoogleARCoreInternal.IntPtrEqualityComparer());
+            new Dictionary<IntPtr, XPAnchor>(new IntPtrEqualityComparer());
 
         private XPTrackingState m_LastFrameTrackingState = XPTrackingState.Stopped;
 

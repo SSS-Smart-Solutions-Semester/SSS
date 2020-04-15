@@ -18,14 +18,14 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.IO;
-    using System.Reflection;
-    using UnityEditor;
-    using UnityEngine;
+using System;
+using System.IO;
+using System.Reflection;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     /// <summary>
     /// This handles the addition and removal android dependencies, and run PlayServicesResolver
     /// plugin.

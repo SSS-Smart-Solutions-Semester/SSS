@@ -18,15 +18,14 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
-    using GoogleARCore.CrossPlatform;
-    using GoogleARCoreInternal.CrossPlatform;
-    using UnityEngine;
+using System;
+using System.Runtime.InteropServices;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Wrappers
+{
     internal class AnchorApi
     {
         private NativeSession m_NativeSession;

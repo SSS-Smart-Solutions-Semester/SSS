@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// The direction the device camera used by the session is facing.

@@ -18,15 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ComputerVision
-{
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using UnityEngine;
-    using UnityEngine.UI;
+using System;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.InstantPreview.Scripts;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
+using UnityEngine.UI;
 
-    #if UNITY_EDITOR
+namespace Assets.GoogleARCore.Examples.ComputerVision.Scripts
+{
+#if UNITY_EDITOR
     // Set up touch input propagation while using Instant Preview in the editor.
     using Input = InstantPreviewInput;
     #endif  // UNITY_EDITOR

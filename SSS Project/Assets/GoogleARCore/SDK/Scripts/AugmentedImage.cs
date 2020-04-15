@@ -18,12 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// An image in the real world detected and tracked by ARCore.
     ///

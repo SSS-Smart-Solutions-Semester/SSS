@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// Possible states for <see cref="LightEstimate"/>.

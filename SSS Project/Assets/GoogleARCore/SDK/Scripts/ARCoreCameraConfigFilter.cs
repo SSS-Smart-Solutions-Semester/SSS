@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using UnityEngine;
+using System;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// The <see cref="ARCoreCameraConfigFilter"/> class derives a list of camera configurations
     /// available on the device at runtime.

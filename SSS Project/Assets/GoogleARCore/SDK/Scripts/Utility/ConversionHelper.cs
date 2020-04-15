@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     internal class ConversionHelper
     {
         private static readonly Matrix4x4 k_UnityWorldToGLWorld

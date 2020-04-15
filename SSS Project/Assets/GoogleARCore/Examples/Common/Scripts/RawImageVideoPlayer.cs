@@ -17,13 +17,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.Common
-{
-    using System.Collections;
-    using UnityEngine;
-    using UnityEngine.UI;
-    using UnityEngine.Video;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Video;
 
+namespace Assets.GoogleARCore.Examples.Common.Scripts
+{
     /// <summary>
     /// Helper class that plays a video on a RawImage texture.
     /// </summary>

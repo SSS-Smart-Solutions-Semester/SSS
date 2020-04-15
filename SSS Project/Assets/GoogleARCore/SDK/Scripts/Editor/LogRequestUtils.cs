@@ -18,17 +18,17 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Diagnostics.CodeAnalysis;
-    using System.Security.Cryptography;
-    using System.Text;
-    using Google.Protobuf;
-    using GoogleARCoreInternal.Proto;
-    using UnityEditor;
-    using UnityEngine;
+using System;
+using System.Diagnostics.CodeAnalysis;
+using System.Security.Cryptography;
+using System.Text;
+using Assets.GoogleARCore.SDK.Scripts.Editor.Analytics;
+using Google.Protobuf;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:ElementsMustBeDocumented",
      Justification = "Internal")]
     public class LogRequestUtils
@@ -61,7 +61,7 @@ namespace GoogleARCoreInternal
             {
                 SdkInstanceId = _UniqueId(),
                 OsVersion = SystemInfo.operatingSystem,
-                ArcoreSdkVersion = GoogleARCore.VersionInfo.Version,
+                ArcoreSdkVersion = VersionInfo.Version,
                 SdkType = ArCoreSdkLog.Types.SDKType.ArcoreSdk,
                 Unity = engine,     // Unity engine version.
                 SdkSessionId = _SessionId(),

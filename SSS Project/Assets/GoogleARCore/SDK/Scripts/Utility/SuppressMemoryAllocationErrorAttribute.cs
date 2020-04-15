@@ -4,11 +4,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using UnityEngine;
+using System;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     /// <summary>
     /// A custom Attribute class to annotate functions that are allowed to allocate memory.
     /// </summary>
@@ -17,7 +16,7 @@ namespace GoogleARCoreInternal
     {
         /// <summary>
         /// Initializes a new instance of the
-        /// <see cref="GoogleARCoreInternal.SuppressMemoryAllocationErrorAttribute"/> class.
+        /// <see cref="SuppressMemoryAllocationErrorAttribute"/> class.
         /// </summary>
         public SuppressMemoryAllocationErrorAttribute()
         {

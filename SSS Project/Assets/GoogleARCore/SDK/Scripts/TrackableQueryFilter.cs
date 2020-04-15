@@ -18,13 +18,8 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCoreInternal;
-    using UnityEngine;
-
     /// <summary>
     /// A filter for trackable queries.
     /// </summary>

@@ -18,11 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using UnityEngine;
+using System;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Flags representing categories of raycast hits.
     /// </summary>

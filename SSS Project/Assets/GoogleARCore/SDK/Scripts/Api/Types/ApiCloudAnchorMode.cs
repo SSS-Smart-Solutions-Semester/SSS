@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal.CrossPlatform
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
 {
     internal enum ApiCloudAnchorMode
     {

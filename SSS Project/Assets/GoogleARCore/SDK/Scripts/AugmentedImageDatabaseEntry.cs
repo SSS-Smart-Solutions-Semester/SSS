@@ -18,11 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+using System;
+using System.IO;
+using UnityEngine;
+
+namespace Assets.GoogleARCore.SDK.Scripts
 {
-    using System;
-    using System.IO;
-    using UnityEngine;
 #if UNITY_EDITOR
     using UnityEditor;
 #endif

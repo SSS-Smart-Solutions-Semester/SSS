@@ -18,17 +18,18 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using GoogleARCore;
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Wrappers
+{
 #if UNITY_IOS && !UNITY_EDITOR
     using AndroidImport = GoogleARCoreInternal.DllImportNoop;
     using IOSImport = System.Runtime.InteropServices.DllImportAttribute;
 #else
     using AndroidImport = System.Runtime.InteropServices.DllImportAttribute;
-    using IOSImport = GoogleARCoreInternal.DllImportNoop;
+
 #endif
 
     internal class ImageApi

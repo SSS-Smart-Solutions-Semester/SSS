@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// Describes the reason for a loss in motion tracking.

@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// Possible statuses for a Google Play Services for AR (ARCore) installation request

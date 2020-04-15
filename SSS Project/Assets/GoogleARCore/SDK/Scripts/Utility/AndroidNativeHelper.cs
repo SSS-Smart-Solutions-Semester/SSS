@@ -18,12 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
+using System.Diagnostics.CodeAnalysis;
+using UnityEngine;
+
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
 {
-    using System.Diagnostics.CodeAnalysis;
-    using UnityEngine;
-
-
     /// <summary>
     /// Static stateless Utility methods for performing native Android calls.
     /// </summary>

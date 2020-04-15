@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using UnityEngine;
-    using UnityEngine.Networking;
+using UnityEngine;
+using UnityEngine.Networking;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
     /// <summary>
     /// Local player controller. Handles the spawning of the networked Game Objects.
     /// </summary>

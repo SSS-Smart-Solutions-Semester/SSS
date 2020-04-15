@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators
+{
     /// <summary>
     /// Manipulates the rotation of an object via a drag or a twist gesture.
     /// If an object is selected, then dragging along the horizontal axis

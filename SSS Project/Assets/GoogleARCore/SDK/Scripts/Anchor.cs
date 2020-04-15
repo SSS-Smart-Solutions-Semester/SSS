@@ -18,14 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+using Assets.GoogleARCore.SDK.Scripts.Api.Wrappers;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Attaches a GameObject to an ARCore <see cref="Trackable"/>.  The transform of the GameObject will
     /// be updated to maintain the semantics of the attachment relationship, which varies between

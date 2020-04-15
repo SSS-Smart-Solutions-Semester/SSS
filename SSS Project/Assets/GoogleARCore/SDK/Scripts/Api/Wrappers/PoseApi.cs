@@ -18,12 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Runtime.InteropServices;
-    using UnityEngine;
+using System;
+using System.Runtime.InteropServices;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Wrappers
+{
     internal class PoseApi
     {
         private NativeSession m_NativeSession;

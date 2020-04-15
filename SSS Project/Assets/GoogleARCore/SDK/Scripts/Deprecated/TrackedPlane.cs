@@ -17,12 +17,12 @@
 //
 // </copyright>
 //-----------------------------------------------------------------------
-namespace GoogleARCore
-{
-    using System;
-    using GoogleARCoreInternal;
-    using UnityEngine;
 
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+
+namespace Assets.GoogleARCore.SDK.Scripts.Deprecated
+{
     /// <summary>
     /// Deprecated version of DetectedPlane.
     /// </summary>

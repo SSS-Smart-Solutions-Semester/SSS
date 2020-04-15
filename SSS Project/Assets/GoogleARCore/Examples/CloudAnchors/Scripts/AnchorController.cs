@@ -18,13 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using GoogleARCore;
-    using GoogleARCore.CrossPlatform;
-    using UnityEngine;
-    using UnityEngine.Networking;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
+using UnityEngine.Networking;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
     /// <summary>
     /// A Controller for the Anchor object that handles hosting and resolving the Cloud Anchor.
     /// </summary>

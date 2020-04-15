@@ -17,19 +17,19 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.Common
-{
-    using System;
-    using System.Reflection;
-    using UnityEditor;
-    using UnityEngine;
+using System;
+using System.Reflection;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.Common.Scripts.Editor
+{
     /// <summary>
     /// Controls how the PointcloudVisualizer component will be rendered in the Editor GUI.
     /// </summary>
     [CustomEditor(typeof(PointcloudVisualizer))]
     [CanEditMultipleObjects]
-    public class PointcloudVisualizerEditor : Editor
+    public class PointcloudVisualizerEditor : UnityEditor.Editor
     {
         private SerializedProperty m_Script;
         private SerializedProperty m_PointColor;

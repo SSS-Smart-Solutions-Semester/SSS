@@ -18,11 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using UnityEditor;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     // Common GUI for ARCore Project Settings, used by ARCoreProjectSettingsWindow and
     // ARCoreProjectSettingsProvider.
     internal class ARCoreProjectSettingsGUI

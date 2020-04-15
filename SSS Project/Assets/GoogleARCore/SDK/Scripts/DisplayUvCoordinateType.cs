@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// Types of UV coordinates used for the display.
@@ -27,13 +27,13 @@ namespace GoogleARCore
     {
         /// <summary>
         /// The background texture used to display the pass-through camera available from
-        /// <see cref="GoogleARCore.Frame.CameraImage.Texture"/>.
+        /// <see cref="Frame.CameraImage.Texture"/>.
         /// </summary>
         BackgroundTexture,
 
         /// <summary>
         /// The background image bytes used for CPU access to the pass-through camera image available from
-        /// <see cref="GoogleARCore.Frame.CameraImage.AcquireCameraImageBytes"/>.
+        /// <see cref="Frame.CameraImage.AcquireCameraImageBytes"/>.
         /// </summary>
         BackgroundImage,
 

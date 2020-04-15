@@ -18,14 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ComputerVision
-{
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
-    using UnityEngine.EventSystems;
+using System;
+using UnityEngine;
+using UnityEngine.EventSystems;
 
+namespace Assets.GoogleARCore.Examples.ComputerVision.Scripts
+{
     /// <summary>
     /// A Monobehavior that handles pointer click event with customizable action.
     /// </summary>

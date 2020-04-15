@@ -18,11 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.CrossPlatform
-{
-    using GoogleARCoreInternal.CrossPlatform;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
 #if ARCORE_IOS_SUPPORT
     using UnityEngine.XR.iOS;
 #endif

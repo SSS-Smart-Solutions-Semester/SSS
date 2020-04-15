@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.CrossPlatform
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// A response from the ARCore <see cref="Cloud Anchor"/> service.

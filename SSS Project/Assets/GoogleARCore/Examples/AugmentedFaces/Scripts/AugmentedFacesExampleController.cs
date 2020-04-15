@@ -18,13 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.AugmentedFaces
-{
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using UnityEngine;
-    using UnityEngine.UI;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.AugmentedFaces.Scripts
+{
     /// <summary>
     /// Controller for the AugmentedFaces sample scene.
     /// </summary>

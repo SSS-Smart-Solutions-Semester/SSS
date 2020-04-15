@@ -18,22 +18,24 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using System.IO;
-    using System.Reflection;
-    using System.Text;
-    using System.Threading;
-    using GoogleARCore;
-    using UnityEngine;
-    using UnityEngine.Rendering;
-    using UnityEngine.SpatialTracking;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
+using System.Text;
+using System.Threading;
+using Assets.GoogleARCore.SDK.Scripts;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.SpatialTracking;
 
+namespace Assets.GoogleARCore.SDK.InstantPreview.Scripts
+{
 #if UNITY_EDITOR
-    using UnityEditor;
 #endif
 
 #if UNITY_IOS && !UNITY_EDITOR
@@ -41,7 +43,7 @@ namespace GoogleARCoreInternal
     using IOSImport = System.Runtime.InteropServices.DllImportAttribute;
 #else
     using AndroidImport = System.Runtime.InteropServices.DllImportAttribute;
-    using IOSImport = GoogleARCoreInternal.DllImportNoop;
+
 #endif
 
     /// <summary>

@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulationInternal
-{
-    using GoogleARCore;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures
+{
     /// <summary>
     /// Provides helper functions for common functionality for transforming objects in AR.
     /// </summary>

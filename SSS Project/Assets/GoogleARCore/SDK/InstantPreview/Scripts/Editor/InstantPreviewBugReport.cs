@@ -18,15 +18,17 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.IO;
-    using System.Runtime.InteropServices;
-    using System.Text;
-    using UnityEditor;
-    using UnityEngine;
+using System;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Text;
+using Assets.GoogleARCore.SDK.Scripts;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.InstantPreview.Scripts.Editor
+{
     internal static class InstantPreviewBugReport
     {
         private const string k_FileNamePrefix = "arcore_unity_editor_bug_report_";
@@ -144,7 +146,7 @@ namespace GoogleARCoreInternal
             writer.WriteLine();
 
             writer.WriteLine("*** ARCORE SDK FOR UNITY VERSION ***");
-            writer.WriteLine(GoogleARCore.VersionInfo.Version);
+            writer.WriteLine(VersionInfo.Version);
             writer.WriteLine();
 
             // Can be null

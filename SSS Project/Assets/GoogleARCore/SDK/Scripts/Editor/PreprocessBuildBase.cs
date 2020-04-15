@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
+using System.Diagnostics.CodeAnalysis;
+using UnityEditor;
+using UnityEditor.Build;
+
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
 {
-    using System.Diagnostics.CodeAnalysis;
-    using GoogleARCore;
-    using UnityEditor;
-    using UnityEditor.Build;
 #if UNITY_2018_1_OR_NEWER
     using UnityEditor.Build.Reporting;
 #endif

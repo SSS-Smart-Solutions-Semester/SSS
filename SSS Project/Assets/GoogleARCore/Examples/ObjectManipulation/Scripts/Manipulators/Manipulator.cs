@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators
+{
     /// <summary>
     /// Base class that manipulates an object via a gesture.
     /// </summary>

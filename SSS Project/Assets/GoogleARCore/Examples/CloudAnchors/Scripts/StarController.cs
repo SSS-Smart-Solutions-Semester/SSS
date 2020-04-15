@@ -18,12 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using GoogleARCore;
-    using UnityEngine;
-    using UnityEngine.Networking;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
     /// <summary>
     /// A controller for the Star object that handles setting mesh after the world origin has been
     /// placed.

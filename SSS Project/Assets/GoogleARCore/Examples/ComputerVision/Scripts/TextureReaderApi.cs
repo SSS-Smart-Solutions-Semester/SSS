@@ -17,17 +17,19 @@
 //
 // </copyright>
 //-----------------------------------------------------------------------
-namespace GoogleARCore.Examples.ComputerVision
-{
-    using System;
-    using UnityEngine;
 
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
+
+namespace Assets.GoogleARCore.Examples.ComputerVision.Scripts
+{
 #if UNITY_IOS && !UNITY_EDITOR
     using AndroidImport = GoogleARCoreInternal.DllImportNoop;
     using IOSImport = System.Runtime.InteropServices.DllImportAttribute;
 #else
     using AndroidImport = System.Runtime.InteropServices.DllImportAttribute;
-    using IOSImport = GoogleARCoreInternal.DllImportNoop;
+
 #endif
 
     /// <summary>

@@ -18,10 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     /// <summary>
     /// Helper class that rate limits messages logged to at most one per specified interval.
     /// </summary>

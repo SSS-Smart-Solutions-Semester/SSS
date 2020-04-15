@@ -18,13 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using System.Diagnostics.CodeAnalysis;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// An ARCore camera image with its data accessible from the CPU in YUV-420-888 format.
     /// </summary>

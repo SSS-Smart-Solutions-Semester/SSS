@@ -18,12 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// This class caches information and content about a Texture2D for use
     /// by ARCore on threads other than the main thread.

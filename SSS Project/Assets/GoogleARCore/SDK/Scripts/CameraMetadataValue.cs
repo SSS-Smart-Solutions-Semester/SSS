@@ -18,13 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using System.Runtime.InteropServices;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System;
+using System.Runtime.InteropServices;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Struct to contain camera metadata's value. When querying data from the struct, caller is
     /// responsible for making sure the querying data type matches the ValueType.

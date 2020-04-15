@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using GoogleARCoreInternal;
-    using UnityEngine;
-    using UnityEngine.Rendering;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
+using UnityEngine.Rendering;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// A component that automatically adjusts lighting settings for the scene
     /// to be inline with those estimated by ARCore.

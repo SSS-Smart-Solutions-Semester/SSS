@@ -18,11 +18,8 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
 {
-    using System.Collections;
-    using UnityEngine;
-
     internal enum ApiArStatus
     {
         // The operation was successful.

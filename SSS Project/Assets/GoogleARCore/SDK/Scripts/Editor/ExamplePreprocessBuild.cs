@@ -18,14 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using UnityEditor;
-    using UnityEditor.Build;
-    using UnityEngine;
+using UnityEditor;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     internal class ExamplePreprocessBuild : ExampleBuildHelper
     {
         public ExamplePreprocessBuild()

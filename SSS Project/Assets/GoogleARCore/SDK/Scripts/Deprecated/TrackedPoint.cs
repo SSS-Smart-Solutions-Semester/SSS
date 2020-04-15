@@ -17,11 +17,12 @@
 //
 // </copyright>
 //-----------------------------------------------------------------------
-namespace GoogleARCore
-{
-    using System;
-    using GoogleARCoreInternal;
 
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+
+namespace Assets.GoogleARCore.SDK.Scripts.Deprecated
+{
     /// <summary>
     /// Deprecated version of FeaturePoint.
     /// </summary>

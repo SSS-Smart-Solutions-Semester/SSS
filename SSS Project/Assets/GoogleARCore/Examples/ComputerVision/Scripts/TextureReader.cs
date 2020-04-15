@@ -17,12 +17,13 @@
 //
 // </copyright>
 //-----------------------------------------------------------------------
-namespace GoogleARCore.Examples.ComputerVision
-{
-    using System;
-    using GoogleARCore;
-    using UnityEngine;
 
+using System;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
+
+namespace Assets.GoogleARCore.Examples.ComputerVision.Scripts
+{
     /// <summary>
     /// Component that provides CPU access to ArCore GPU texture.
     /// </summary>

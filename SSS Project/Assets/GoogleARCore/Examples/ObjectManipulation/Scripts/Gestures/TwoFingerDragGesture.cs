@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using GoogleARCore.Examples.ObjectManipulationInternal;
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures
+{
     /// <summary>
     /// Gesture for when the user performs a two finger vertical swipe motion on the touch screen.
     /// </summary>

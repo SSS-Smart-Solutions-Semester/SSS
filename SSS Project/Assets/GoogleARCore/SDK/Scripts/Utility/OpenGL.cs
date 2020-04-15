@@ -18,15 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Diagnostics;
-    using System.Diagnostics.CodeAnalysis;
-    using System.Runtime.InteropServices;
+using System.Diagnostics;
+using System.Diagnostics.CodeAnalysis;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
 #if UNITY_ANDROID
-    using Import = System.Runtime.InteropServices.DllImportAttribute;
+
 #else
     using Import = GoogleARCoreInternal.DllImportNoop;
 #endif

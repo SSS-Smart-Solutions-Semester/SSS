@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators
+{
     /// <summary>
     /// Controls the elevation of an object via a two finger drag gesture.
     /// If an object is selected, then doing a two finger drag along the vertical

@@ -18,11 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using GoogleARCore.Examples.ObjectManipulationInternal;
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures
+{
     /// <summary>
     /// Gesture for when the user performs a two-finger pinch motion on the touch screen.
     /// </summary>

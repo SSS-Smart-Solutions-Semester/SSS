@@ -18,15 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal.CrossPlatform
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using System.Runtime.InteropServices;
-    using GoogleARCore.CrossPlatform;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Api.Wrappers;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Managers
+{
     internal class CloudServiceManager
     {
         private static CloudServiceManager s_Instance;
@@ -48,11 +49,11 @@ namespace GoogleARCoreInternal.CrossPlatform
             }
         }
 
-        public GoogleARCore.AsyncTask<CloudAnchorResult> CreateCloudAnchor(
-            GoogleARCore.Anchor anchor)
+        public AsyncTask<CloudAnchorResult> CreateCloudAnchor(
+            Anchor anchor)
         {
             Action<CloudAnchorResult> onComplete;
-            GoogleARCore.AsyncTask<CloudAnchorResult> task;
+            AsyncTask<CloudAnchorResult> task;
             if (!_CreateCloudAnchorResultAsyncTask(out onComplete, out task))
             {
                 return task;
@@ -63,10 +64,10 @@ namespace GoogleARCoreInternal.CrossPlatform
             return task;
         }
 
-        public GoogleARCore.AsyncTask<CloudAnchorResult> CreateCloudAnchor(UnityEngine.Pose pose)
+        public AsyncTask<CloudAnchorResult> CreateCloudAnchor(UnityEngine.Pose pose)
         {
             Action<CloudAnchorResult> onComplete;
-            GoogleARCore.AsyncTask<CloudAnchorResult> task;
+            AsyncTask<CloudAnchorResult> task;
             if (!_CreateCloudAnchorResultAsyncTask(out onComplete, out task))
             {
                 return task;
@@ -86,10 +87,10 @@ namespace GoogleARCoreInternal.CrossPlatform
             return task;
         }
 
-        public GoogleARCore.AsyncTask<CloudAnchorResult> ResolveCloudAnchor(string cloudAnchorId)
+        public AsyncTask<CloudAnchorResult> ResolveCloudAnchor(string cloudAnchorId)
         {
             Action<CloudAnchorResult> onComplete;
-            GoogleARCore.AsyncTask<CloudAnchorResult> task;
+            AsyncTask<CloudAnchorResult> task;
             if (!_CreateCloudAnchorResultAsyncTask(out onComplete, out task))
             {
                 return task;
@@ -136,10 +137,10 @@ namespace GoogleARCoreInternal.CrossPlatform
         /// creation should abort.</returns>
         protected internal bool _CreateCloudAnchorResultAsyncTask(
             out Action<CloudAnchorResult> onComplete,
-            out GoogleARCore.AsyncTask<CloudAnchorResult> task)
+            out AsyncTask<CloudAnchorResult> task)
         {
             // Action<CloudAnchorResult> onComplete;
-            task = new GoogleARCore.AsyncTask<CloudAnchorResult>(out onComplete);
+            task = new AsyncTask<CloudAnchorResult>(out onComplete);
 
             if (LifecycleManager.Instance.NativeSession == null)
             {

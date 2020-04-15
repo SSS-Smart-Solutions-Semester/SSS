@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.AugmentedFaces
-{
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using UnityEngine;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.AugmentedFaces.Scripts
+{
     /// <summary>
     /// Helper component to update face regions.
     /// </summary>

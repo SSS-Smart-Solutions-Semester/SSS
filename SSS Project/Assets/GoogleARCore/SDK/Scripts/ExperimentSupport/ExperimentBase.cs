@@ -18,11 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using GoogleARCore;
+using System;
 
+namespace Assets.GoogleARCore.SDK.Scripts.ExperimentSupport
+{
     /// <summary>
     /// A base class allowing an experiment to subscribe to internal SDK events by implementing
     /// a subclass that will be automatically found via reflection.

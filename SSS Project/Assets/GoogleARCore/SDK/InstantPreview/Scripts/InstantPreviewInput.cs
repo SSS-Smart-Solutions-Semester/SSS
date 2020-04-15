@@ -18,15 +18,14 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using System.Runtime.InteropServices;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
+using System.Runtime.InteropServices;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.InstantPreview.Scripts
+{
     /// <summary>
     /// Helper class that provides touch input in lieu of Input.GetTouch when
     /// running the Unity Editor.

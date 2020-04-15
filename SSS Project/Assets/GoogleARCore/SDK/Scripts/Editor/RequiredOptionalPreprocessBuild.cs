@@ -18,14 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using System.IO;
-    using UnityEditor;
-    using UnityEditor.Build;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     internal class RequiredOptionalPreprocessBuild : PreprocessBuildBase
     {
         public override void OnPreprocessBuild(BuildTarget target, string path)

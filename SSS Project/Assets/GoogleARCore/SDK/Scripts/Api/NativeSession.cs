@@ -18,14 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts.Api.Wrappers;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api
+{
     internal class NativeSession
     {
 #pragma warning disable 414

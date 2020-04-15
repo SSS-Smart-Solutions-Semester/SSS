@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts
+{
     /// <summary>
     /// Manipulation system allows the user to manipulate virtual objects (select, translate,
     /// rotate, scale and elevate) through gestures (tap, drag, twist, swipe).

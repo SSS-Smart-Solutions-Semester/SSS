@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using UnityEditor;
-    using UnityEngine;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     internal class ARCoreAnalyticsGUI
     {
         // Use public static properties here, so that labels are automatically extracted by

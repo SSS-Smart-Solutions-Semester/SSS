@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using GoogleARCoreInternal;
-    using UnityEngine;
-    using UnityEngine.Serialization;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
+using UnityEngine.Serialization;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Holds settings that are used to configure the session.
     /// </summary>
@@ -124,7 +124,7 @@ namespace GoogleARCore
         public CameraFocusMode CameraFocusMode = CameraFocusMode.FixedFocus;
 
         /// <summary>
-        /// Chooses which <see cref="GoogleARCore.AugmentedFaceMode"/> the ARCore session uses.
+        /// Chooses which <see cref="Scripts.AugmentedFaceMode"/> the ARCore session uses.
         /// </summary>
         public AugmentedFaceMode AugmentedFaceMode = AugmentedFaceMode.Disabled;
 

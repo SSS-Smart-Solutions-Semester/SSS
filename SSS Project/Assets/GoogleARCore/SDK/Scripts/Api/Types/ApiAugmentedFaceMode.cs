@@ -17,7 +17,7 @@
 //
 // </copyright>
 //-----------------------------------------------------------------------
-namespace GoogleARCoreInternal
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
 {
     internal enum ApiAugmentedFaceMode
     {

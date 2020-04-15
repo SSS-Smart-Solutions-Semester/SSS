@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System.Diagnostics.CodeAnalysis;
+using System.Diagnostics.CodeAnalysis;
 
-    /// <summary>
+namespace Assets.GoogleARCore.SDK.Scripts
+{
+        /// <summary>
     /// This enum follows the layout of NdkCameraMetadataTags.
     /// The values in the file are used for requesting / marshaling camera image's metadata.
     /// The comments have been removed to keep the code readable. Please refer to

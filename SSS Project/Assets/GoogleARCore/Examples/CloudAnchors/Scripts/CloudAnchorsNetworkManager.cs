@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using System;
-    using UnityEngine;
-    using UnityEngine.Networking;
+using System;
+using UnityEngine;
+using UnityEngine.Networking;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
     /// <summary>
     /// A NetworkManager that handles client connection and disconnection with customizable actions.
     /// </summary>

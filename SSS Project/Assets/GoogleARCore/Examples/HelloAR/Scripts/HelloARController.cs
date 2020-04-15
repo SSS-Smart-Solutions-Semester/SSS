@@ -18,14 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.HelloAR
-{
-    using System.Collections.Generic;
-    using GoogleARCore;
-    using GoogleARCore.Examples.Common;
-    using UnityEngine;
-    using UnityEngine.EventSystems;
+using Assets.GoogleARCore.SDK.InstantPreview.Scripts;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
+using UnityEngine.EventSystems;
 
+namespace Assets.GoogleARCore.Examples.HelloAR.Scripts
+{
 #if UNITY_EDITOR
     // Set up touch input propagation while using Instant Preview in the editor.
     using Input = InstantPreviewInput;

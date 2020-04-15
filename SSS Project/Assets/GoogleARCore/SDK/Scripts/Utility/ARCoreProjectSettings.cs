@@ -18,13 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Diagnostics.CodeAnalysis;
-    using System.IO;
-    using UnityEngine;
+using System;
+using System.Diagnostics.CodeAnalysis;
+using System.IO;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     [Serializable]
     [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:ElementsMustBeDocumented",
      Justification = "Internal")]
@@ -63,7 +63,7 @@ namespace GoogleARCoreInternal
 
         public void Load()
         {
-            Version = GoogleARCore.VersionInfo.Version;
+            Version = VersionInfo.Version;
             IsARCoreRequired = true;
             IsInstantPreviewEnabled = true;
             CloudServicesApiKey = string.Empty;
@@ -96,9 +96,9 @@ namespace GoogleARCoreInternal
                 Version = "V1.3.0";
             }
 
-            if (!Version.Equals(GoogleARCore.VersionInfo.Version))
+            if (!Version.Equals(VersionInfo.Version))
             {
-                Version = GoogleARCore.VersionInfo.Version;
+                Version = VersionInfo.Version;
             }
         }
 

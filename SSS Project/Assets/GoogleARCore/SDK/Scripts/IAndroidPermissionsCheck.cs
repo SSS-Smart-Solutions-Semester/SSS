@@ -4,11 +4,8 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
-    using System;
-    using GoogleARCore;
-
     /// <summary>
     /// Interface for checking Android permission. The interface is used for MOCK unity test.
     /// </summary>

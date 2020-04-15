@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
+using System;
+using System.Collections.Generic;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     internal class IntPtrEqualityComparer : IEqualityComparer<IntPtr>
     {
         public bool Equals(IntPtr intPtr1, IntPtr intPtr2)

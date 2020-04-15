@@ -18,12 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using GoogleARCore;
-    using UnityEngine;
+using System.Diagnostics.CodeAnalysis;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Async
+{
     /// <summary>
     /// A yield instruction that blocks a coroutine until an AsyncTask has completed.
     /// </summary>

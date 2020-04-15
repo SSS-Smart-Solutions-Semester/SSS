@@ -18,7 +18,7 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.CrossPlatform
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// The tracking state for a cross-platform ARCore entity.

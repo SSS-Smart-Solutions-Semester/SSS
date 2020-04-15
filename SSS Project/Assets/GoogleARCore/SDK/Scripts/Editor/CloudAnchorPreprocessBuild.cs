@@ -18,16 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using System.IO;
-    using System.Text;
-    using System.Xml;
-    using UnityEditor;
-    using UnityEditor.Build;
-    using UnityEngine;
+using System.IO;
+using System.Text;
+using System.Xml;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEditor.Build;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     internal class CloudAnchorPreprocessBuild : PreprocessBuildBase
     {
         private const string k_ManifestTemplateGuid = "5e182918f0b8c4929a3d4b0af0ed6f56";

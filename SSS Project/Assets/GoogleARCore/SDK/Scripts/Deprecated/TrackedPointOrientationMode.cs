@@ -18,10 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System.Diagnostics.CodeAnalysis;
+using System.Diagnostics.CodeAnalysis;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Deprecated
+{
     /// <summary>
     /// Deprecated version of FeaturePointOrientationMode.
     /// </summary>

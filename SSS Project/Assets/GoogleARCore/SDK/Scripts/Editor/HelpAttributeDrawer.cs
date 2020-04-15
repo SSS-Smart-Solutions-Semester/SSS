@@ -18,12 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Reflection;
-    using UnityEditor;
-    using UnityEngine;
+using System.Reflection;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     /// <summary>
     /// HelpAttribute drawer that draws a HelpBox below the property to display the help content.
     /// </summary>

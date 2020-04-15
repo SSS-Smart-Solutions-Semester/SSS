@@ -19,17 +19,18 @@
 //-----------------------------------------------------------------------
 
 // Certain versions of 2018.1 fail to define UNITY_2017_4_OR_NEWER.
+
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
+
 #if !UNITY_2017_4_OR_NEWER && !UNITY_2018_1_OR_NEWER && !ARCORE_SKIP_MIN_VERSION_CHECK
   #error ARCore SDK for Unity requires Unity 2017.4 or later.
 #endif  // !UNITY_2017_4_OR_NEWER && !UNITY_2018_1_OR_NEWER
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCoreInternal;
-    using UnityEngine;
-
     /// <summary>
     /// Represents an ARCore session, which is an attachment point from the app
     /// to the ARCore service. Holds information about the global state for

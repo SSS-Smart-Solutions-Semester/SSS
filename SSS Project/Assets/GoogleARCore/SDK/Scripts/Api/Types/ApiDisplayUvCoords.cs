@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using System.Runtime.InteropServices;
-    using UnityEngine;
+using System.Diagnostics.CodeAnalysis;
+using System.Runtime.InteropServices;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
+{
     /// <summary>
     /// UV coordinates for the four corners of the display.
     /// </summary>

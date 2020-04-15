@@ -18,14 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using System.IO;
-    using UnityEditor;
-    using UnityEditor.Build;
-    using UnityEngine;
+using System.IO;
+using UnityEditor;
+using UnityEditor.Build;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     internal class AssetHelper
     {
         /// <summary>

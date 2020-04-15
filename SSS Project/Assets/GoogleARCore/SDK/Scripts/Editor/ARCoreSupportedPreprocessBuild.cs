@@ -18,13 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System.Diagnostics.CodeAnalysis;
-    using UnityEditor;
-    using UnityEditor.Build;
-    using UnityEngine;
+using System.Diagnostics.CodeAnalysis;
+using UnityEditor;
+using UnityEditor.Build;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:ElementsMustBeDocumented",
         Justification = "Internal")]
     internal class ARCoreSupportedPreprocessBuild : PreprocessBuildBase

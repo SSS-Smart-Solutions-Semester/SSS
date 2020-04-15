@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.InstantPreview.Scripts
+{
     /// <summary>
     /// Drives cameras when using Instant Preview, since there is no easy way to
     /// provide data to Unity's TrackedPoseDriver.

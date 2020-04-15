@@ -18,11 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using UnityEditor;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
 // Only add ARCore Project Settings to the unified project settings window in Unity 2018.3 and
 // later. In Unity versions prior to 2018.3, settings are instead made available by
 // ARCoreProjectSettingsWindow.

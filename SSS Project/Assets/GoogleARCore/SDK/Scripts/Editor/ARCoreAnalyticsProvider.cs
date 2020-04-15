@@ -20,12 +20,13 @@
 
 // Unity 2018.3 and later uses a SettingsProvider to add preference
 // options to the common dialog. See also ARCoreAnalyticsPreferences.
+
+using UnityEditor;
+
 #if UNITY_2018_3_OR_NEWER
 
-namespace GoogleARCoreInternal
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
 {
-    using UnityEditor;
-
     internal class ARCoreAnalyticsProvider : SettingsProvider
     {
         public ARCoreAnalyticsProvider(string path, SettingsScope scope)

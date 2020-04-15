@@ -17,11 +17,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.Common
-{
-    using System.Collections;
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.Common.Scripts
+{
     /// <summary>
     /// A helper component that scale the UI rect to the same size as the safe area.
     /// </summary>

@@ -18,16 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-    using GoogleARCoreInternal;
-    using UnityEngine;
-    using UnityEngine.Rendering;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using UnityEngine;
+using UnityEngine.Rendering;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Renders the device's camera as a background to the attached Unity camera component.
     /// When using the front-facing (selfie) camera, this temporarily inverts culling when

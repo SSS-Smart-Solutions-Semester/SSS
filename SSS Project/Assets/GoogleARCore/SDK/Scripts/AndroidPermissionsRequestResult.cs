@@ -18,11 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Structure holding data summarizing the result of an Android permissions request.
     /// </summary>

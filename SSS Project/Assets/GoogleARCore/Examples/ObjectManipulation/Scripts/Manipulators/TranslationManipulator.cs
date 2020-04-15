@@ -18,11 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using GoogleARCore.Examples.ObjectManipulationInternal;
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators
+{
     /// <summary>
     /// Manipulates the position of an object via a drag gesture.
     /// If not selected, the object will be selected when the drag gesture starts.

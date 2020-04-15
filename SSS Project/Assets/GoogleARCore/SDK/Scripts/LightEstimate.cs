@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using GoogleARCoreInternal;
-    using UnityEngine;
-    using UnityEngine.Rendering;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using UnityEngine;
+using UnityEngine.Rendering;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// An estimate of lighting conditions in the environment corresponding to
     /// an AR frame.

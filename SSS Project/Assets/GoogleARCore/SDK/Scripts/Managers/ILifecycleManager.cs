@@ -18,12 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Diagnostics.CodeAnalysis;
-    using GoogleARCore;
+using System;
+using System.Diagnostics.CodeAnalysis;
+using Assets.GoogleARCore.SDK.Scripts.Api;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Managers
+{
     [SuppressMessage("UnityRules.UnityStyleRules", "US1101:NonPublicFieldsMustHavePrefixM",
      Justification = "This is an interface so fields are already public.")]
     internal interface ILifecycleManager

@@ -18,10 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using UnityEngine;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     /// <summary>
     /// Help attribute that displays the help message as a HelpBox below the property.
     /// When uses HelpAttribute and other inspector attributes, make sure that the HelpAttribute
@@ -44,7 +44,7 @@ namespace GoogleARCoreInternal
         public readonly HelpMessageType MessageType = HelpMessageType.None;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="T:GoogleARCoreInternal.HelpAttribute"/>
+        /// Initializes a new instance of the <see cref="T:Assets.GoogleARCore.SDK.Scripts.Utility.HelpAttribute"/>
         /// class.
         /// </summary>
         /// <param name="helpMessage">Help message.</param>

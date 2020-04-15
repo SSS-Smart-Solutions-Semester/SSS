@@ -18,7 +18,7 @@
 // </copyright>
 //------------------------------------
 
-namespace GoogleARCore
+namespace Assets.GoogleARCore.SDK.Scripts
 {
     /// <summary>
     /// Provides access to information about the current ARCore SDK runtime.

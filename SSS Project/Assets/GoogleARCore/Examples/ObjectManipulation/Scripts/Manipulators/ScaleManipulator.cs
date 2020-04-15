@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.ObjectManipulation
-{
-    using GoogleARCore.Examples.ObjectManipulationInternal;
-    using UnityEngine;
+using Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Gestures;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.ObjectManipulation.Scripts.Manipulators
+{
     /// <summary>
     /// Controls the scale of an object via a Pinch gesture.
     /// If an object is selected, then doing a pinch/zoom modify the scale

@@ -18,16 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.CloudAnchors
-{
-    using System.Collections.Generic;
-    using UnityEngine;
-    using UnityEngine.Networking;
-    using UnityEngine.Networking.Match;
-    using UnityEngine.Networking.Types;
-    using UnityEngine.SceneManagement;
-    using UnityEngine.UI;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Networking;
+using UnityEngine.Networking.Match;
+using UnityEngine.Networking.Types;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
+namespace Assets.GoogleARCore.Examples.CloudAnchors.Scripts
+{
     /// <summary>
     /// Controller managing UI for joining and creating rooms.
     /// </summary>

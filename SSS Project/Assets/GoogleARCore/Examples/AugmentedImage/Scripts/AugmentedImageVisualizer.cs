@@ -18,15 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore.Examples.AugmentedImage
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.Examples.AugmentedImage.Scripts
+{
     /// <summary>
     /// Uses 4 frame corner objects to visualize an AugmentedImage.
     /// </summary>
@@ -35,7 +31,7 @@ namespace GoogleARCore.Examples.AugmentedImage
         /// <summary>
         /// The AugmentedImage to visualize.
         /// </summary>
-        public AugmentedImage Image;
+        public SDK.Scripts.AugmentedImage Image;
 
         /// <summary>
         /// A model for the lower left corner of the frame to place when an image is detected.

@@ -18,11 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.InstantPreview.Scripts;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// A point in a point cloud.
     /// </summary>

@@ -18,10 +18,10 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using GoogleARCoreInternal;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     internal static class DisplayUvCoordinateTypeExtension
     {
         public static ApiCoordinates2dType ToApiCoordinates2dType(

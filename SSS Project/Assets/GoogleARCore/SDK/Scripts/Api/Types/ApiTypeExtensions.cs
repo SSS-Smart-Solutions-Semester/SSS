@@ -18,13 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using GoogleARCore;
-    using GoogleARCore.CrossPlatform;
-    using GoogleARCoreInternal.CrossPlatform;
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
+{
     internal static class ApiTypeExtensions
     {
         public static ApkAvailabilityStatus ToApkAvailabilityStatus(this ApiAvailability apiStatus)

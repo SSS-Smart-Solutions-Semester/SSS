@@ -18,10 +18,11 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using UnityEngine;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Stores UV display coordinates for mapping the four corners of the display.
     /// </summary>
@@ -77,10 +78,10 @@ namespace GoogleARCore
             "StyleCop.CSharp.DocumentationRules",
             "SA1600:ElementsMustBeDocumented",
             Justification = "Deprecated")]
-        public static implicit operator GoogleARCoreInternal.ApiDisplayUvCoords(
+        public static implicit operator ApiDisplayUvCoords(
             DisplayUvCoords coords)
         {
-            return new GoogleARCoreInternal.ApiDisplayUvCoords(
+            return new ApiDisplayUvCoords(
                 coords.TopLeft, coords.TopRight, coords.BottomLeft, coords.BottomRight);
         }
 

@@ -18,16 +18,14 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
+using System;
+using System.Runtime.InteropServices;
+
 [module: System.Diagnostics.CodeAnalysis.SuppressMessage("StyleCop.CSharp.DocumentationRules",
  "SA1649:FileHeaderFileNameDocumentationMustMatchTypeName", Justification = "Internal.")]
 
-namespace GoogleARCoreInternal
+namespace Assets.GoogleARCore.SDK.Scripts.Api.Types
 {
-    using System;
-    using System.Diagnostics.CodeAnalysis;
-    using System.Runtime.InteropServices;
-    using UnityEngine;
-
     internal enum NdkCameraMetadataType
     {
         Byte = 0,

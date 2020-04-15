@@ -18,13 +18,16 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCore
-{
-    using System;
-    using System.Collections.Generic;
-    using GoogleARCoreInternal;
-    using UnityEngine;
+using System;
+using System.Collections.Generic;
+using Assets.GoogleARCore.SDK.InstantPreview.Scripts;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using Assets.GoogleARCore.SDK.Scripts.Managers;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts
+{
     /// <summary>
     /// Provides a snapshot of the state of ARCore at a specific timestamp associated with the
     /// current frame.  Frame holds information about ARCore's state including tracking status, the
@@ -607,7 +610,7 @@ namespace GoogleARCore
             /// <returns>A <c>CameraImageBytes</c> struct with <c>IsAvailable</c> property set to
             /// <c>true</c> if successful and <c>false</c> if the image could not be
             /// acquired.</returns>
-            public static GoogleARCore.CameraImageBytes AcquireCameraImageBytes()
+            public static CameraImageBytes AcquireCameraImageBytes()
             {
                 var nativeSession = LifecycleManager.Instance.NativeSession;
                 if (nativeSession == null)

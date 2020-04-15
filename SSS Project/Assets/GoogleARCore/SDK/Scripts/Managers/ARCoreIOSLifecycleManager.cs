@@ -18,16 +18,13 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Reflection;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
-    using GoogleARCoreInternal.CrossPlatform;
-    using UnityEngine;
+using System;
+using Assets.GoogleARCore.SDK.Scripts.Api;
+using Assets.GoogleARCore.SDK.Scripts.Api.Types;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Managers
+{
     internal class ARCoreIOSLifecycleManager : ILifecycleManager
     {
         private const string k_CloudServicesApiKeyPath = "RuntimeSettings/CloudServicesApiKey";

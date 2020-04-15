@@ -18,13 +18,12 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Runtime.InteropServices;
-    using GoogleARCore;
+using System;
+using System.Collections.Generic;
+using System.Runtime.InteropServices;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Utility
+{
     /// <summary>
     /// A helper class for mashalling data.
     /// </summary>

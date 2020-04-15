@@ -18,19 +18,18 @@
 // </copyright>
 //-----------------------------------------------------------------------
 
-namespace GoogleARCoreInternal
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Diagnostics.CodeAnalysis;
-    using GoogleARCore;
-    using UnityEditor;
-    using UnityEngine;
+using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
+using Assets.GoogleARCore.SDK.Scripts.Utility;
+using UnityEditor;
+using UnityEngine;
 
+namespace Assets.GoogleARCore.SDK.Scripts.Editor
+{
     [CustomEditor(typeof(AugmentedImageDatabase))]
     [SuppressMessage("StyleCop.CSharp.DocumentationRules", "SA1600:ElementsMustBeDocumented",
      Justification = "Internal")]
-    public class AugmentedImageDatabaseInspector : Editor
+    public class AugmentedImageDatabaseInspector : UnityEditor.Editor
     {
         private const float k_ImageSpacerHeight = 55f;
         private const int k_PageSize = 5;
