@@ -3,329 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="874f9a79-77c7-4e0f-b3e1-4f0369c3f17a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SSS Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SSS Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SSS Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SSS Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SSS Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SSS Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceMeshFilter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceMeshFilter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceRig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/ARCoreAugmentedFaceRig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/AugmentedFacesExampleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedFaces/Scripts/AugmentedFacesExampleController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageExampleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageExampleController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageVisualizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageVisualizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/ARCoreWorldOriginHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/ARCoreWorldOriginHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/ARKitHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/ARKitHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/AnchorController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/CloudAnchorsExampleController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/CloudAnchorsExampleController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/CloudAnchorsNetworkManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/CloudAnchorsNetworkManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/LocalPlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/LocalPlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/NetworkManagerUIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/NetworkManagerUIController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/StarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/StarController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneVisualizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/DetectedPlaneVisualizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/Editor/PointcloudVisualizerEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/Editor/PointcloudVisualizerEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/PlaneDiscoveryGuide.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/PlaneDiscoveryGuide.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/PointcloudVisualizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/PointcloudVisualizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/RawImageVideoPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/RawImageVideoPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/SafeAreaScaler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/Common/Scripts/SafeAreaScaler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/ComputerVisionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/ComputerVisionController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/EdgeDetector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/EdgeDetector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/PointClickHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/PointClickHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/TextureReader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/TextureReader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/TextureReaderApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/TextureReaderApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/DragGesture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/DragGesture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/DragGestureRecognizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/DragGestureRecognizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/Gesture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/Gesture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/GestureRecognizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/GestureRecognizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/GestureTouchesUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/GestureTouchesUtility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/PinchGesture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/PinchGesture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/PinchGestureRecognizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/PinchGestureRecognizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TapGesture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TapGesture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TapGestureRecognizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TapGestureRecognizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TransformationUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TransformationUtility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwistGesture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwistGesture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwistGestureRecognizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwistGestureRecognizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwoFingerDragGesture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwoFingerDragGesture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwoFingerDragGestureRecognizer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Gestures/TwoFingerDragGestureRecognizer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ManipulationSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/ElevationManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/ElevationManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/Manipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/Manipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/RotationManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/RotationManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/ScaleManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/ScaleManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/SelectionManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/SelectionManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/TranslationManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/Manipulators/TranslationManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ObjectManipulationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/ObjectManipulationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/PawnManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/Examples/ObjectManipulation/Scripts/PawnManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/Editor/InstantPreviewBugReport.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/Editor/InstantPreviewBugReport.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreviewInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreviewInput.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreviewManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreviewManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreviewTrackedPoseDriver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/InstantPreview/Scripts/InstantPreviewTrackedPoseDriver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreBackgroundRenderer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreBackgroundRenderer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreCameraConfigFilter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreCameraConfigFilter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSessionConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSessionConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Anchor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Anchor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AndroidPermissionsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AndroidPermissionsManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AndroidPermissionsRequestResult.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AndroidPermissionsRequestResult.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/NativeSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/NativeSession.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiApkInstallationStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiApkInstallationStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiArStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiArStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiAugmentedFaceMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiAugmentedFaceMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiAugmentedFaceRegionType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiAugmentedFaceRegionType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiAvailability.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiAvailability.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraConfigFacingDirection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraConfigFacingDirection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraConfigTargetFps.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraConfigTargetFps.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraFocusMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraFocusMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraMetadata.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCameraMetadata.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCloudAnchorMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCloudAnchorMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCloudAnchorState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCloudAnchorState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiConstants.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiConstants.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCoordinates2dType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiCoordinates2dType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiDisplayUvCoords.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiDisplayUvCoords.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiFeaturePointOrientationMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiFeaturePointOrientationMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiLightEstimateState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiLightEstimateState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiLightEstimationMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiLightEstimationMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPlaneFindingMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPlaneFindingMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPlaneType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPlaneType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPoseData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPoseData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPrestoDeviceCameraDirection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPrestoDeviceCameraDirection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPrestoStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiPrestoStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiRenderEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiRenderEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTextureDataType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTextureDataType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTrackableType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTrackableType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTrackingFailureReason.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTrackingFailureReason.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTrackingState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTrackingState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTypeExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiTypeExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiUpdateMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Types/ApiUpdateMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AnchorApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AnchorApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AugmentedFaceApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AugmentedFaceApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AugmentedImageApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AugmentedImageApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AugmentedImageDatabaseApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/AugmentedImageDatabaseApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraConfigApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraConfigApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraConfigFilterApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraConfigFilterApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraConfigListApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraConfigListApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraMetadataApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/CameraMetadataApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/FrameApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/FrameApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/HitTestApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/HitTestApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/ImageApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/ImageApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/LightEstimateApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/LightEstimateApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PlaneApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PlaneApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PointApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PointApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PointCloudApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PointCloudApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PoseApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/PoseApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/SessionApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/SessionApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/SessionConfigApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/SessionConfigApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/TrackableApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/TrackableApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/TrackableListApi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Api/Wrappers/TrackableListApi.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ApkAvailabilityStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ApkAvailabilityStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ApkInstallationStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ApkInstallationStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Async/WaitForTaskCompletionYieldInstruction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Async/WaitForTaskCompletionYieldInstruction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AsyncTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AsyncTask.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFace.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceRegion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedFaceRegion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageDatabase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageDatabase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageDatabaseEntry.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageDatabaseEntry.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageSrc.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageSrc.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageTrackingMethod.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/AugmentedImageTrackingMethod.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraConfig.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraFocusMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraFocusMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraImageBytes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraImageBytes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraIntrinsics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraIntrinsics.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraMetadataTag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraMetadataTag.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraMetadataValue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CameraMetadataValue.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CloudAnchorMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CloudAnchorMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CloudAnchorResult.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CloudAnchorResult.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CloudServiceResponse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/CloudServiceResponse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Deprecated/TrackedPlane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Deprecated/TrackedPlane.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Deprecated/TrackedPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Deprecated/TrackedPoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Deprecated/TrackedPointOrientationMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Deprecated/TrackedPointOrientationMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DetectedPlane.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DetectedPlane.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DetectedPlaneFindingMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DetectedPlaneFindingMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DetectedPlaneType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DetectedPlaneType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DeviceCameraDirection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DeviceCameraDirection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DisplayUvCoordinateType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DisplayUvCoordinateType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DisplayUvCoordinateTypeExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DisplayUvCoordinateTypeExtension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DisplayUvCoords.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/DisplayUvCoords.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreAnalytics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreAnalytics.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreAnalyticsGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreAnalyticsGUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreAnalyticsProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreAnalyticsProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreIOSSupportHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreIOSSupportHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreIOSSupportPreprocessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreIOSSupportPreprocessBuild.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreProjectSettingsGUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreProjectSettingsGUI.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreProjectSettingsProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreProjectSettingsProvider.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreProjectSettingsWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreProjectSettingsWindow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreSupportedPreprocessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ARCoreSupportedPreprocessBuild.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/Analytics/ArcoreClearcut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/Analytics/ArcoreClearcut.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/Analytics/ArcoreSdkLog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/Analytics/ArcoreSdkLog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AndroidDependenciesHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AndroidDependenciesHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AssetHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AssetHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AugmentedImageDatabaseContextMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AugmentedImageDatabaseContextMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AugmentedImageDatabaseInspector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AugmentedImageDatabaseInspector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AugmentedImageDatabasePreprocessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/AugmentedImageDatabasePreprocessBuild.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/BackgroundJobExecutor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/BackgroundJobExecutor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/CloudAnchorPreprocessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/CloudAnchorPreprocessBuild.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ExampleBuildHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ExampleBuildHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ExamplePreprocessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/ExamplePreprocessBuild.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/HelpAttributeDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/HelpAttributeDrawer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/LogRequestUtils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/LogRequestUtils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/PreprocessBuildBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/PreprocessBuildBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/RequiredOptionalPreprocessBuild.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Editor/RequiredOptionalPreprocessBuild.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/EnvironmentalLight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/EnvironmentalLight.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ExperimentSupport/ExperimentBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ExperimentSupport/ExperimentBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ExperimentSupport/ExperimentManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ExperimentSupport/ExperimentManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/FeaturePoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/FeaturePoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/FeaturePointOrientationMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/FeaturePointOrientationMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Frame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Frame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/IAndroidPermissionsCheck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/IAndroidPermissionsCheck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LightEstimate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LightEstimate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LightEstimateState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LightEstimateState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LightEstimationMode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LightEstimationMode.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LostTrackingReason.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/LostTrackingReason.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ARCoreAndroidLifecycleManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ARCoreAndroidLifecycleManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ARCoreIOSLifecycleManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ARCoreIOSLifecycleManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ARPrestoCallbackManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ARPrestoCallbackManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/CloudServiceManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/CloudServiceManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ILifecycleManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/ILifecycleManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/LifecycleManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/LifecycleManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/PointCloudManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/PointCloudManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/TrackableManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Managers/TrackableManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/PointCloudPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/PointCloudPoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Session.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Session.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/SessionStatus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/SessionStatus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/SessionStatusExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/SessionStatusExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Trackable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Trackable.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHitFlags.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHitFlags.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableQueryFilter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableQueryFilter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackingState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackingState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ARCoreProjectSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ARCoreProjectSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ARDebug.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ARDebug.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/AndroidNativeHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/AndroidNativeHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ConversionHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ConversionHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/DllImportNoop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/DllImportNoop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/HelpAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/HelpAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/IntPtrEqualityComparer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/IntPtrEqualityComparer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/MarshalingHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/MarshalingHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/OpenGL.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/OpenGL.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ShellHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ShellHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/SuppressMemoryAllocationErrorAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/SuppressMemoryAllocationErrorAttribute.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ThrottledLogMessage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Utility/ThrottledLogMessage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/VersionInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/VersionInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/XPAnchor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/XPAnchor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/XPSession.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/XPSession.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/XPTrackingState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/XPTrackingState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Test1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Test1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LuggageSize.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LuggageSize.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/LocalPlayerController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <marker date="1586860756308" expanded="true" signature="0:838" ph="/* ----------------------------------------------------------------------- ... */" />
-                <marker date="1586860756308" expanded="false" signature="846:888" ph="..." />
-                <marker date="1586860756308" expanded="true" signature="949:3686" ph="{...}" />
-                <marker date="1586860756308" expanded="true" signature="956:1073" ph="/// Local player controller. Handles the spawning of the networked Game Objects. ... " />
-                <marker date="1586860756308" expanded="true" signature="1187:3684" ph="{...}" />
-                <marker date="1586860756308" expanded="true" signature="1202:1317" ph="/// The Star model that will represent networked objects in the scene. ... " />
-                <marker date="1586860756308" expanded="true" signature="1365:1475" ph="/// The Anchor model that will represent the anchor in the scene. ... " />
-                <marker date="1586860756308" expanded="true" signature="1525:1612" ph="/// The Unity OnStartLocalPlayer() method. ... " />
-                <marker date="1586860756308" expanded="true" signature="1662:1925" ph="{...}" />
-                <marker date="1586860756308" expanded="true" signature="1725:1870" ph="/* A Name is provided to the Game Object so it can be found by other Scripts, since this ... */" />
-                <marker date="1586860756308" expanded="true" signature="1935:2312" ph="/// Will spawn the origin anchor and host the Cloud Anchor. Must be called by the host. ... " />
-                <marker date="1586860756308" expanded="true" signature="2401:2927" ph="{...}" />
-                <marker date="1586860756308" expanded="true" signature="2701:2814" ph="/* Host can spawn directly without using a Command because the server is running in this ... */" />
-                <marker date="1586860756308" expanded="true" signature="2937:3233" ph="/// A command run on the server that will spawn the Star prefab in all clients. ... " />
-                <marker date="1586860756308" expanded="true" signature="3379:3678" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-              <folding>
-                <marker date="1586939296961" expanded="false" signature="6:54" ph="..." />
-                <marker date="1586939296961" expanded="true" signature="80:843" ph="{...}" />
-                <marker date="1586939296961" expanded="true" signature="136:841" ph="{...}" />
-                <marker date="1586939296961" expanded="true" signature="411:503" ph="{...}" />
-                <marker date="1586939296961" expanded="true" signature="533:648" ph="{...}" />
-                <marker date="1586939296961" expanded="true" signature="679:835" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LuggageSize.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-              <folding>
-                <marker date="1586939295930" expanded="true" signature="6:164" ph="..." />
-                <marker date="1586939295930" expanded="true" signature="213:623" ph="{...}" />
-                <marker date="1586939295930" expanded="true" signature="282:499" ph="{...}" />
-                <marker date="1586939295930" expanded="true" signature="600:621" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DragObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <marker date="1586937334629" expanded="false" signature="6:34" ph="..." />
-                <marker date="1586937334629" expanded="true" signature="75:675" ph="{...}" />
-                <marker date="1586937334629" expanded="true" signature="209:374" ph="{...}" />
-                <marker date="1586937334629" expanded="true" signature="411:482" ph="{...}" />
-                <marker date="1586937334629" expanded="true" signature="522:673" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <marker date="1586936845129" expanded="true" signature="6:78" ph="..." />
-                <marker date="1586936845129" expanded="true" signature="121:906" ph="{...}" />
-                <marker date="1586936845129" expanded="true" signature="403:904" ph="{...}" />
-                <marker date="1586936845129" expanded="true" signature="430:566" ph="{...}" />
-                <marker date="1586936845129" expanded="true" signature="596:732" ph="{...}" />
-                <marker date="1586936845129" expanded="true" signature="762:898" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/LocalPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LuggageSize.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -334,47 +33,43 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DragObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LuggaeSize.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.0/Rider/Editor/com.unity.ide.rider.asmdef" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LuggageSize.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1acDoVnr2TnGF72LBLrQ8EZraZL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_Android_plugin_suggestion" value="true" />
     <property name="settings.editor.selected.configurable" value="Inspections-C#" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -391,52 +86,27 @@
       <workItem from="1586860547815" duration="1133000" />
       <workItem from="1586862000037" duration="1920000" />
       <workItem from="1586932277286" duration="5451000" />
+      <workItem from="1587021061054" duration="172000" />
+      <workItem from="1587026170656" duration="244000" />
+      <workItem from="1587026631037" duration="21000" />
+      <workItem from="1587026721392" duration="120000" />
+      <workItem from="1587028382792" duration="48000" />
+      <workItem from="1587028534083" duration="135000" />
+      <workItem from="1587028876265" duration="33000" />
+      <workItem from="1587028935804" duration="893000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9432000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18700053" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Performance Profiler" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="14" side_tool="true" visible="true" weight="0.32870865" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587026769811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587026769811" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -447,88 +117,5 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/CloudAnchors/Scripts/LocalPlayerController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <marker date="1586860756308" expanded="true" signature="0:838" ph="/* ----------------------------------------------------------------------- ... */" />
-            <marker date="1586860756308" expanded="false" signature="846:888" ph="..." />
-            <marker date="1586860756308" expanded="true" signature="949:3686" ph="{...}" />
-            <marker date="1586860756308" expanded="true" signature="956:1073" ph="/// Local player controller. Handles the spawning of the networked Game Objects. ... " />
-            <marker date="1586860756308" expanded="true" signature="1187:3684" ph="{...}" />
-            <marker date="1586860756308" expanded="true" signature="1202:1317" ph="/// The Star model that will represent networked objects in the scene. ... " />
-            <marker date="1586860756308" expanded="true" signature="1365:1475" ph="/// The Anchor model that will represent the anchor in the scene. ... " />
-            <marker date="1586860756308" expanded="true" signature="1525:1612" ph="/// The Unity OnStartLocalPlayer() method. ... " />
-            <marker date="1586860756308" expanded="true" signature="1662:1925" ph="{...}" />
-            <marker date="1586860756308" expanded="true" signature="1725:1870" ph="/* A Name is provided to the Game Object so it can be found by other Scripts, since this ... */" />
-            <marker date="1586860756308" expanded="true" signature="1935:2312" ph="/// Will spawn the origin anchor and host the Cloud Anchor. Must be called by the host. ... " />
-            <marker date="1586860756308" expanded="true" signature="2401:2927" ph="{...}" />
-            <marker date="1586860756308" expanded="true" signature="2701:2814" ph="/* Host can spawn directly without using a Command because the server is running in this ... */" />
-            <marker date="1586860756308" expanded="true" signature="2937:3233" ph="/// A command run on the server that will spawn the Star prefab in all clients. ... " />
-            <marker date="1586860756308" expanded="true" signature="3379:3678" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1586936845129" expanded="true" signature="6:78" ph="..." />
-            <marker date="1586936845129" expanded="true" signature="121:906" ph="{...}" />
-            <marker date="1586936845129" expanded="true" signature="403:904" ph="{...}" />
-            <marker date="1586936845129" expanded="true" signature="430:566" ph="{...}" />
-            <marker date="1586936845129" expanded="true" signature="596:732" ph="{...}" />
-            <marker date="1586936845129" expanded="true" signature="762:898" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DragObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <marker date="1586937334629" expanded="false" signature="6:34" ph="..." />
-            <marker date="1586937334629" expanded="true" signature="75:675" ph="{...}" />
-            <marker date="1586937334629" expanded="true" signature="209:374" ph="{...}" />
-            <marker date="1586937334629" expanded="true" signature="411:482" ph="{...}" />
-            <marker date="1586937334629" expanded="true" signature="522:673" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LineRendererDistance.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
-          <folding>
-            <marker date="1586939296961" expanded="false" signature="6:54" ph="..." />
-            <marker date="1586939296961" expanded="true" signature="80:843" ph="{...}" />
-            <marker date="1586939296961" expanded="true" signature="136:841" ph="{...}" />
-            <marker date="1586939296961" expanded="true" signature="411:503" ph="{...}" />
-            <marker date="1586939296961" expanded="true" signature="533:648" ph="{...}" />
-            <marker date="1586939296961" expanded="true" signature="679:835" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LuggageSize.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
-          <folding>
-            <marker date="1586939295930" expanded="true" signature="6:164" ph="..." />
-            <marker date="1586939295930" expanded="true" signature="213:623" ph="{...}" />
-            <marker date="1586939295930" expanded="true" signature="282:499" ph="{...}" />
-            <marker date="1586939295930" expanded="true" signature="600:621" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

@@ -255,9 +255,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 34764319}
-  _position1: {fileID: 1120271874}
-  _position2: {fileID: 447178610}
+  lineRend: {fileID: 34764319}
+  position1: {fileID: 1120271874}
+  position2: {fileID: 447178610}
 --- !u!120 &34764319
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -1048,9 +1048,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 669679925}
-  _position1: {fileID: 157964425}
-  _position2: {fileID: 622087306}
+  lineRend: {fileID: 669679925}
+  position1: {fileID: 157964425}
+  position2: {fileID: 622087306}
 --- !u!1 &682222289
 GameObject:
   m_ObjectHideFlags: 0
@@ -1095,9 +1095,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 682222292}
-  _position1: {fileID: 783247279}
-  _position2: {fileID: 1416649838}
+  lineRend: {fileID: 682222292}
+  position1: {fileID: 783247279}
+  position2: {fileID: 1416649838}
 --- !u!120 &682222292
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -1238,9 +1238,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 769055017}
-  _position1: {fileID: 447178610}
-  _position2: {fileID: 1998739537}
+  lineRend: {fileID: 769055017}
+  position1: {fileID: 447178610}
+  position2: {fileID: 1998739537}
 --- !u!120 &769055017
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -1612,9 +1612,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1001895688}
-  _position1: {fileID: 1998739537}
-  _position2: {fileID: 622087306}
+  lineRend: {fileID: 1001895688}
+  position1: {fileID: 1998739537}
+  position2: {fileID: 622087306}
 --- !u!120 &1001895688
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -2024,9 +2024,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1528741559}
-  _position1: {fileID: 783247279}
-  _position2: {fileID: 1120271874}
+  lineRend: {fileID: 1528741559}
+  position1: {fileID: 783247279}
+  position2: {fileID: 1120271874}
 --- !u!120 &1528741559
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -2167,9 +2167,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1714321051}
-  _position1: {fileID: 1970333552}
-  _position2: {fileID: 1998739537}
+  lineRend: {fileID: 1714321051}
+  position1: {fileID: 1970333552}
+  position2: {fileID: 1998739537}
 --- !u!120 &1714321051
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -2409,9 +2409,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1817702618}
-  _position1: {fileID: 1120271874}
-  _position2: {fileID: 1970333552}
+  lineRend: {fileID: 1817702618}
+  position1: {fileID: 1120271874}
+  position2: {fileID: 1970333552}
 --- !u!120 &1817702618
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -2649,9 +2649,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1911046741}
-  _position1: {fileID: 157964425}
-  _position2: {fileID: 1970333552}
+  lineRend: {fileID: 1911046741}
+  position1: {fileID: 157964425}
+  position2: {fileID: 1970333552}
 --- !u!114 &1911046744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2664,9 +2664,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dac6ef791068a442a4cd667905f2581, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1911046741}
-  _position1: {fileID: 157964425}
-  _position2: {fileID: 1970333552}
+  lineRend: {fileID: 1911046741}
+  position1: {fileID: 157964425}
+  position2: {fileID: 1970333552}
   text: {fileID: 2078748452}
 --- !u!1 &1945350991
 GameObject:
@@ -2921,9 +2921,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 1987055691}
-  _position1: {fileID: 622087306}
-  _position2: {fileID: 1416649838}
+  lineRend: {fileID: 1987055691}
+  position1: {fileID: 622087306}
+  position2: {fileID: 1416649838}
 --- !u!120 &1987055691
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -3173,9 +3173,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 2041267188}
-  _position1: {fileID: 447178610}
-  _position2: {fileID: 1416649838}
+  lineRend: {fileID: 2041267188}
+  position1: {fileID: 447178610}
+  position2: {fileID: 1416649838}
 --- !u!120 &2041267188
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -3452,7 +3452,7 @@ LineRenderer:
       atime5: 0
       atime6: 0
       atime7: 0
-      m_Mode: 1
+      m_Mode: 0
       m_NumColorKeys: 2
       m_NumAlphaKeys: 2
     numCornerVertices: 0
@@ -3489,6 +3489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca43fe8f58a044f48927d238b46e7894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _lineRend: {fileID: 2113325597}
-  _position1: {fileID: 157964425}
-  _position2: {fileID: 783247279}
+  lineRend: {fileID: 2113325597}
+  position1: {fileID: 157964425}
+  position2: {fileID: 783247279}
